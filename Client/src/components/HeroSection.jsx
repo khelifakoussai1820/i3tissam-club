@@ -1,7 +1,7 @@
 function HeroSection() {
   return (
     <>
-      <div className="mx-48 w-[850px] ">
+      <div className="mx-48 w-212.5 ">
         
         <div className="text-center">
             <h1 className="text-7xl font-bold ">WELCOME TO  MOSSALA  <br /> I3TISSAM CLUB</h1>
