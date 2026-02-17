@@ -1,4 +1,3 @@
 # i3tissam-club
 
-On affichera les détails après.
-Stay TUNED !!
+dans cette branch y'aura des détails sur le UI.
